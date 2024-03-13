@@ -14,4 +14,8 @@ Python dilinin syntax'ını ve temel konularını öğrenmek üzerine yaptığı
     - 7.2.  [Inheritance](7-OOP/7.2-Inheritance/)
     - 7.3.  [Multilevel Inheritance](7-OOP/7.3-Multilevel%20Inheritance/)
     - 7.4.  [Multiple Inheritance](7-OOP/7.4-Multiple%20Inheritance/)
-
+    - 7.5.  [Method Overriding](7-OOP/7.5-Method%20Overriding/)
+    - 7.6.  [Method Chaining](7-OOP/7.6-Method%20Chaining/)
+    - 7.7.  [Super Function](7-OOP/7.7-Super%20Function/)
+    - 7.8.  [Abstracts](7-OOP/7.8-Abstract/)
+8. [Others](8-Others/)
